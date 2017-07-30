@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 		
 		Toast.makeText(this, "tv1="+tv1.getText(), Toast.LENGTH_SHORT).show();
 		Toast.makeText(this, "tv2="+tv2.getText(), Toast.LENGTH_SHORT).show();
+		Log.d("I'm jack","fix a bug,no thanks!");
 	}
 
 	@OnClick({R.id.btn1,R.id.btn2})
