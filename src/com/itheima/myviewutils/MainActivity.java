@@ -1,9 +1,3 @@
-# MyViewUtils
-这是一个ViewUtils框架，可以基于注解的形式进行控件的绑定和按钮点击的绑定
-
-##参考代码
-
-
 package com.itheima.myviewutils;
 
 import com.itheima.viewutils.R;
@@ -47,4 +41,3 @@ public class MainActivity extends Activity {
 		}
 	}
 }
-
